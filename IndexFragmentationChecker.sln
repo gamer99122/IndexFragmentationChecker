@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexFragmentationChecker", "IndexFragmentationChecker.csproj", "{CFB15E50-54EF-41CA-BD64-03AE5E172369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB15E50-54EF-41CA-BD64-03AE5E172369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB15E50-54EF-41CA-BD64-03AE5E172369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB15E50-54EF-41CA-BD64-03AE5E172369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB15E50-54EF-41CA-BD64-03AE5E172369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C00E42-3AB4-452B-97BB-8A631E3D7AE5}
+	EndGlobalSection
+EndGlobal
